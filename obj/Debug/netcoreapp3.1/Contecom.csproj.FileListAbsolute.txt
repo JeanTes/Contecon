@@ -1,0 +1,70 @@
+E:\Contecom\Contecom\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Contecom\Contecom\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Contecom\Contecom\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Contecom\Contecom\bin\Debug\netcoreapp3.1\Contecom.exe
+E:\Contecom\Contecom\bin\Debug\netcoreapp3.1\Contecom.deps.json
+E:\Contecom\Contecom\bin\Debug\netcoreapp3.1\Contecom.runtimeconfig.json
+E:\Contecom\Contecom\bin\Debug\netcoreapp3.1\Contecom.runtimeconfig.dev.json
+E:\Contecom\Contecom\bin\Debug\netcoreapp3.1\Contecom.dll
+E:\Contecom\Contecom\bin\Debug\netcoreapp3.1\Contecom.pdb
+E:\Contecom\Contecom\bin\Debug\netcoreapp3.1\Contecom.Views.dll
+E:\Contecom\Contecom\bin\Debug\netcoreapp3.1\Contecom.Views.pdb
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.csprojAssemblyReference.cache
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\staticwebassets\Contecom.StaticWebAssets.Manifest.cache
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\staticwebassets\Contecom.StaticWebAssets.xml
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.MvcApplicationPartsAssemblyInfo.cache
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.RazorAssemblyInfo.cache
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.RazorAssemblyInfo.cs
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.AssemblyInfoInputs.cache
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.AssemblyInfo.cs
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.TagHelpers.input.cache
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.TagHelpers.output.cache
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.RazorCoreGenerate.cache
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.RazorTargetAssemblyInfo.cache
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.RazorTargetAssemblyInfo.cs
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.Views.pdb
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.dll
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.pdb
+E:\Contecom\Contecom\obj\Debug\netcoreapp3.1\Contecom.csproj.CopyComplete
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\bin\Debug\netcoreapp3.1\Contecom.exe
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\bin\Debug\netcoreapp3.1\Contecom.deps.json
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\bin\Debug\netcoreapp3.1\Contecom.runtimeconfig.json
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\bin\Debug\netcoreapp3.1\Contecom.runtimeconfig.dev.json
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\bin\Debug\netcoreapp3.1\Contecom.dll
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\bin\Debug\netcoreapp3.1\Contecom.pdb
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\bin\Debug\netcoreapp3.1\Contecom.Views.dll
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\bin\Debug\netcoreapp3.1\Contecom.Views.pdb
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.csprojAssemblyReference.cache
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\staticwebassets\Contecom.StaticWebAssets.Manifest.cache
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\staticwebassets\Contecom.StaticWebAssets.xml
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.MvcApplicationPartsAssemblyInfo.cache
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.RazorAssemblyInfo.cache
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.RazorAssemblyInfo.cs
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.AssemblyInfoInputs.cache
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.AssemblyInfo.cs
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.TagHelpers.input.cache
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.TagHelpers.output.cache
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.RazorCoreGenerate.cache
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.RazorTargetAssemblyInfo.cache
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.RazorTargetAssemblyInfo.cs
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.Views.pdb
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.dll
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.pdb
+D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.csproj.CopyComplete
