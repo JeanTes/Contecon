@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jean\\Documents\\universidad\\proyecto contecon\\contecon nueva era\\websitec\\Contecom.csproj": {}
+    "D:\\Jean\\Documents\\universidad\\proyecto contecon\\desarrolo github\\Contecon\\Contecom.csproj": {}
   },
   "projects": {
-    "D:\\Jean\\Documents\\universidad\\proyecto contecon\\contecon nueva era\\websitec\\Contecom.csproj": {
+    "D:\\Jean\\Documents\\universidad\\proyecto contecon\\desarrolo github\\Contecon\\Contecom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jean\\Documents\\universidad\\proyecto contecon\\contecon nueva era\\websitec\\Contecom.csproj",
+        "projectUniqueName": "D:\\Jean\\Documents\\universidad\\proyecto contecon\\desarrolo github\\Contecon\\Contecom.csproj",
         "projectName": "Contecom",
-        "projectPath": "D:\\Jean\\Documents\\universidad\\proyecto contecon\\contecon nueva era\\websitec\\Contecom.csproj",
+        "projectPath": "D:\\Jean\\Documents\\universidad\\proyecto contecon\\desarrolo github\\Contecon\\Contecom.csproj",
         "packagesPath": "C:\\Users\\Jean\\.nuget\\packages\\",
-        "outputPath": "D:\\Jean\\Documents\\universidad\\proyecto contecon\\contecon nueva era\\websitec\\obj\\",
+        "outputPath": "D:\\Jean\\Documents\\universidad\\proyecto contecon\\desarrolo github\\Contecon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

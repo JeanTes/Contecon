@@ -68,3 +68,38 @@ D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\
 D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.dll
 D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.pdb
 D:\Jean\Documents\universidad\proyecto contecon\contecon nueva era\websitec\obj\Debug\netcoreapp3.1\Contecom.csproj.CopyComplete
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\bin\Debug\netcoreapp3.1\Contecom.exe
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\bin\Debug\netcoreapp3.1\Contecom.deps.json
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\bin\Debug\netcoreapp3.1\Contecom.runtimeconfig.json
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\bin\Debug\netcoreapp3.1\Contecom.runtimeconfig.dev.json
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\bin\Debug\netcoreapp3.1\Contecom.dll
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\bin\Debug\netcoreapp3.1\Contecom.pdb
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\bin\Debug\netcoreapp3.1\Contecom.Views.dll
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\bin\Debug\netcoreapp3.1\Contecom.Views.pdb
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.csprojAssemblyReference.cache
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\staticwebassets\Contecom.StaticWebAssets.Manifest.cache
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\staticwebassets\Contecom.StaticWebAssets.xml
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.MvcApplicationPartsAssemblyInfo.cache
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.RazorAssemblyInfo.cache
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.RazorAssemblyInfo.cs
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.AssemblyInfoInputs.cache
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.AssemblyInfo.cs
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.TagHelpers.input.cache
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.TagHelpers.output.cache
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.RazorCoreGenerate.cache
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.RazorTargetAssemblyInfo.cache
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.RazorTargetAssemblyInfo.cs
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.Views.pdb
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.dll
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.pdb
+D:\Jean\Documents\universidad\proyecto contecon\desarrolo github\Contecon\obj\Debug\netcoreapp3.1\Contecom.csproj.CopyComplete
