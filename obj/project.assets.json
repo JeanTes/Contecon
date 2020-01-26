@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Jean\\Documents\\universidad\\proyecto contecon\\desarrolo github\\Contecon\\Contecom.csproj",
       "projectName": "Contecom",
       "projectPath": "D:\\Jean\\Documents\\universidad\\proyecto contecon\\desarrolo github\\Contecon\\Contecom.csproj",
       "packagesPath": "C:\\Users\\Jean\\.nuget\\packages\\",
       "outputPath": "D:\\Jean\\Documents\\universidad\\proyecto contecon\\desarrolo github\\Contecon\\obj\\",
+=======
+      "projectUniqueName": "D:\\Jean\\Documents\\universidad\\proyecto contecon\\sitio prueba git hub\\Contecon\\Contecom.csproj",
+      "projectName": "Contecom",
+      "projectPath": "D:\\Jean\\Documents\\universidad\\proyecto contecon\\sitio prueba git hub\\Contecon\\Contecom.csproj",
+      "packagesPath": "C:\\Users\\Jean\\.nuget\\packages\\",
+      "outputPath": "D:\\Jean\\Documents\\universidad\\proyecto contecon\\sitio prueba git hub\\Contecon\\obj\\",
+>>>>>>> 11a4b70c3fa0d30d7ec3888935e10b4f4c1a4bea
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
